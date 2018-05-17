@@ -1,0 +1,15 @@
+{
+	"name": "employee_parser",
+	"version": "1.0.0",
+	"description": "Valtech Employee CSV Parser for Boost",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Per Enström",
+	"license": "ISC",
+	"dependencies": {
+		"csvtojson": "^1.1.9",
+		"json2csv": "^4.0.3"
+	}
+}
